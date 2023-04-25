@@ -25,7 +25,7 @@
 2. GitHub - https://openinapp.co/githubpuru 
 3. Facebook - https://openinapp.co/fbpuru
 4. Instagram - https://openinapp.co/instapuru
-5. Email - https://openinapp.co/gmailpuru
+5. Email - https://openinapp.co/gmailpuru  (use Desktop / Laptop to open this link)
 
 🌟 Explore more on my Profile below 👇🏻
 

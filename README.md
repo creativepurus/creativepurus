@@ -12,7 +12,6 @@
 
 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
-👀 Explore more on my Profile below 👇🏻
 
 👀 I’m interested in AI, ML, Data Science, Robotics
 
@@ -27,6 +26,8 @@
 3. Facebook - https://openinapp.co/fbpuru
 4. Instagram - https://openinapp.co/instapuru
 5. Email - https://openinapp.co/gmailpuru
+
+🌟 Explore more on my Profile below 👇🏻
 
 <!---
 creativepurus/creativepurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

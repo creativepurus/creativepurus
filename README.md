@@ -5,18 +5,21 @@
 <br/>
 </p>
 
+<p align="left">
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
-</a> <br> <br>
+</a> </p>
 
+<p align="center">
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
-</a> <br> <br>
+</a> </p>
 
+<p align="right">
 <a href="mailto:creativepurus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
-</a>
-<br>
+</a> </p>
+
 
 <!-- <a href="">
     <img src="https://img.shields.io/badge/Website-The_Viral_Section-red?style=social&logo=wordpress">
@@ -27,7 +30,6 @@
 <a href="https://pypi.org/user/creativepurus/">
     <img src="https://img.shields.io/badge/PyPi-creativepurus-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
-<br/>
 
 <p align="center">
 <a href="https://github.com/creativepurus">

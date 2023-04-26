@@ -8,7 +8,7 @@
 
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
-</a> <br>
+</a> <br> <br>
 
 <a href="mailto:creativepurus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">

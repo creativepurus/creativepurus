@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/creativepurus">
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=100&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
-</a>
 <br/>
 
 <a href="https://www.linkedin.com/in/creativepurus/">

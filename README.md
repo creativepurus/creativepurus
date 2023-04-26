@@ -66,7 +66,7 @@
 
 * 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=2000&pause=1000&multiline=true&width=500&height=30&lines=How+to+reach+me+-+Social+Links+:+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=How+to+reach+me+-+Social+Links+:+" alt="Typing SVG" />
 
 1. Linkedin - https://openinapp.co/linkedinpuru
 
@@ -82,9 +82,11 @@
 
 5. Email - https://openinapp.co/gmailpuru   (use Desktop / Laptop to open this link)
 
+<br> </br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepurus&theme=nightowl)
 

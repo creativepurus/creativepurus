@@ -36,6 +36,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=creativepurus&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
 </a>
 
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=2000&pause=1000&multiline=true&width=500&height=30&lines=Hi,+I+am+Purushottam+:)" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=2000&pause=1000&multiline=true&width=500&height=30&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="Typing SVG" />
@@ -45,7 +47,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=2000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=2000&pause=2000&multiline=true&width=500&height=30&lines=ABOUT+ME+:" alt="Typing SVG" />
-</p>
+
 
 * 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
 

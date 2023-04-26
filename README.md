@@ -44,7 +44,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=4000&pause=1000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=5000&pause=1000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
 
 
 * 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.

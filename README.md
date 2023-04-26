@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://github.com/creativepurus">
+<a href="https://github.com/creativepuru">
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 <br/>
 
-<a href="https://www.linkedin.com/in/creativepurus/">
+<a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
 </a> 
 
@@ -26,12 +26,12 @@
     <img src="https://img.shields.io/badge/PyPi-creativepurus-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
 
-<a href="https://github.com/creativepurus">
-    <img src="https://github-stats-alpha.vercel.app/api?username=creativepurus&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/creativepuru">
+    <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> </br>
 
-<a href="https://github.com/creativepurus?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=creativepurus&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
+<a href="https://github.com/creativepuru?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
 </a>
 
 </p>
@@ -68,11 +68,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepurus&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepurus&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepurus&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
 
 <br>
 

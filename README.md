@@ -1,19 +1,20 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=100&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=100&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
 </a>
 <a href="https://openinapp.co/cvpuru">
-    <img src="https://img.shields.io/badge/Resume-CV-red?style=flat-round&logo=adobe">
+    <img src="https://img.shields.io/badge/Resume-CV-blue?style=flat-round&logo=adobe">
 </a> 
 <a href="mailto:creativepurus@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=social&logo=gmail&logoColor=red">
 </a>
-<a href="">
+
+<!-- <a href="">
     <img src="https://img.shields.io/badge/Website-The_Viral_Section-red?style=social&logo=wordpress">
-</a>
+</a> -->
 
 <!-- <a href='https://scholar.google.com/citations?user=' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>

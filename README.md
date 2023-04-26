@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
-</a> 
+</a> <br> <br>
 
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">

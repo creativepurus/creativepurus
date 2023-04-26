@@ -64,6 +64,7 @@
 
 * 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
+<br> </br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
 
@@ -93,8 +94,10 @@
 
 <br> </br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Typing SVG" />
-
 👨🏻‍💻 Currently Coding & 🎧 Listening to :
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+
+<br> </br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Typing SVG" />

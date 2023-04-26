@@ -4,6 +4,13 @@
 </a>
 <br/>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+</script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="creativepuru" data-version="v1">
+<a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/creativepuru?trk=profile-badge">Purushottam Anand</a></div>
+<br/>
+
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
 </a> 

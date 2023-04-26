@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=1000&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/creativepurus/">

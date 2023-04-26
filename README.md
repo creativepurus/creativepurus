@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
-</a> <br>
+</a> 
 
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
@@ -30,7 +30,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepurus&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> <br/>
 
-<a href="https://github.com/creativepurus">
+<a href="https://github.com/creativepurus?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=creativepurus&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
 </a>
 

@@ -1,36 +1,39 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=100&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 <br/>
 
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
-</a>
-<a href="https://openinapp.co/cvpuru">
-    <img src="https://img.shields.io/badge/Resume-CV-blue?style=flat-round&logo=adobe">
-</a> 
-<a href="mailto:creativepurus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=social&logo=gmail&logoColor=red">
-</a>
+</a> <br>
 
+<a href="https://openinapp.co/cvpuru">
+    <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
+</a> <br>
+
+<a href="mailto:creativepurus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
+</a> 
+
+<br>
 <!-- <a href="">
     <img src="https://img.shields.io/badge/Website-The_Viral_Section-red?style=social&logo=wordpress">
-</a> -->
-
-<!-- <a href='https://scholar.google.com/citations?user=' target="_blank">
+</a>
+<a href='https://scholar.google.com/citations?user=' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> -->
-<!-- <a href="https://pypi.org/user/creativepurus/">
+</a> 
+<a href="https://pypi.org/user/creativepurus/">
     <img src="https://img.shields.io/badge/PyPi-creativepurus-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> -->
-<br/> 
+<br/>
 
 <a href="https://github.com/creativepurus">
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepurus&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a> <br> <br/>
 
 <a href="https://github.com/creativepurus">
     <img src="https://github-readme-stats.vercel.app/api?username=creativepurus&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
 </a>
+
 
 </p>
 

@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 <br/>
+</p>
 
 <a href="https://www.linkedin.com/in/creativepurus/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
@@ -14,9 +15,9 @@
 
 <a href="mailto:creativepurus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
-</a> 
-
+</a>
 <br>
+
 <!-- <a href="">
     <img src="https://img.shields.io/badge/Website-The_Viral_Section-red?style=social&logo=wordpress">
 </a>
@@ -28,15 +29,17 @@
 </a> -->
 <br/>
 
+<p>
 <a href="https://github.com/creativepurus">
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepurus&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+</p>
 
 ## 📍📚 MY REPOSITORY 👇🏻
+<p>
 <a href="https://github.com/creativepurus?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=creativepurus&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
 </a>
-
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+:)" alt="Typing SVG" />

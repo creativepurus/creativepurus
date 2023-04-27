@@ -38,11 +38,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+:)" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2500&pause=1000&multiline=true&width=500&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=3000&pause=1000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=1000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=4000&pause=1000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=1000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
 

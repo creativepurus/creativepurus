@@ -31,7 +31,7 @@
 </a> <br> </br>
 
 <a href="https://github.com/creativepuru?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=nightowl">
+    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 </p>

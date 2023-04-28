@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <a href="https://github.com/creativepuru">
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=24&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=1000&multiline=true&width=850&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub;We+can+create+a+remarkable+history+together+!;Join+me+on+this+journey+!+" alt="Typing SVG" />

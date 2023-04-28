@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=1000&multiline=true&width=850&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub;We+can+create+a+remarkable+history+together+!;Join+me+on+this+journey+!+" alt="Typing SVG" />
 </a>
 <br/>
+</p>
+
+<p align="center">
 
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">

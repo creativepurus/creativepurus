@@ -54,9 +54,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
 
-```
-![ABOUT ME](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:)
-```
+``` ![ABOUT ME](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:) ```
 
 * [I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.](https://github.com/creativepuru)
 

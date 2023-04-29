@@ -2,13 +2,13 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17354%26project%3D%26in%3D0 "Today's Code Time")](https://codetime.dev)
 -->
 
+<!--
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
-
-<!-- 
-<div align="center">
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?size=100"/>
-</div>
 -->
+
+<a href="https://github.com/creativepuru">
+    <img align="left" src="https://github.com/creativepuru.png?size=100" alt="Purushottam Anand 🇮🇳 on GitHub ☕" /> <img align="center" src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
+</a>
 
 <p align="left">
 <a href="https://github.com/creativepuru">
@@ -16,7 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="Short Intro" />
 </a>
-<br/>
 </p>
 
 [![An image of @creativepuru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru)
@@ -35,16 +34,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
 </a> <br> </br>
 
-<!-- <a href="">
-    <img src="https://img.shields.io/badge/Website-The_Viral_Section-red?style=social&logo=wordpress">
-</a>
-<a href='https://scholar.google.com/citations?user=' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> 
-<a href="https://pypi.org/user/creativepurus/">
-    <img src="https://img.shields.io/badge/PyPi-creativepurus-blue?style=flat-square&logo=pypi&logoColor=white">
-</a> -->
-
+<!-- 
 <a href="https://github.com/creativepuru">
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> </br>

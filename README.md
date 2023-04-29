@@ -1,7 +1,7 @@
 [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <div align="center">
-<img src="https://github.com/creativepuru.png?size=100"> <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?size=100"/>
+<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif?size=100"/>
 </div>
 
 <p align="left">

@@ -118,10 +118,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" /> <br> </br>
 
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
-[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=plastic&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=plastic&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
-[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
+[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
+[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 

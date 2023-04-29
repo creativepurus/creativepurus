@@ -82,7 +82,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5:30)
 
 <br>
 

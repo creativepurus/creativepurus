@@ -46,8 +46,6 @@
 
 </p>
 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+:)" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="Typing SVG" />
@@ -56,11 +54,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
+<div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="Typing SVG" />
 
-</div>
 
 <!-- Code to convert written code into copy-able sentence (use ``` multiline to achieve this):
 

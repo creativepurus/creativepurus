@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=creativepuru&color=268F77&label=Profile+Views)
+
 [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <!-- 

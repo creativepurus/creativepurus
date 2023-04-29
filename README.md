@@ -111,6 +111,10 @@
 <br> </br>
 
 
+## Github Profile Views
+
+![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg)
+
 ## 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Typing SVG" />
 

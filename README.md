@@ -116,7 +116,7 @@
 
 ![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
 
-[![Purushottam's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/github-readme-activity-graph)
+[![Purushottam's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/)
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 

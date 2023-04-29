@@ -7,18 +7,14 @@
 
 [![An image of @creativepuru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru)
 
-<div align="center">
 <a href="https://github.com/creativepuru">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="Short Intro" />
-</a> </div>
+</a>
 
 <p align="center">
 <a href="https://github.com/creativepuru">
-
 <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
-
-</a>
-</p>
+</a> </p>
 
 <p align="center">
 <a href="https://openinapp.co/linkedinpuru">
@@ -143,10 +139,6 @@
 
 <br> </br>
 
-<p>
-<img align="center" src="https://github.com/creativepuru/creativepuru/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="creativepuru" >
-</p>
-
 ## 📈 GitHub Profile Views (Today)
 
 ![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg)
@@ -154,4 +146,8 @@
 ## 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Explore More on my profile below :" />
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /></a></p>
+> <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b>
+
+<p align="right">
+<a href="#top">
+<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>

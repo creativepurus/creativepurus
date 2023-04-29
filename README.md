@@ -54,7 +54,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="Typing SVG" />
 
 
 <!-- Code to convert written code into copy-able sentence (use ``` multiline to achieve this):
@@ -93,12 +93,10 @@
 
 <br> </br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" />
 
 
 ![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
-
-![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 
 ![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
 
@@ -107,6 +105,8 @@
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
 
 ![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 
 <br>
 

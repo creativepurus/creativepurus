@@ -110,21 +110,21 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=How+to+reach+me+-+Social+Links+:+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="Typing SVG" />
 
-1. Linkedin - https://openinapp.co/linkedinpuru
-
-
-2. GitHub - https://openinapp.co/githubpuru
+1. `Linkedin` - https://openinapp.co/linkedinpuru
 
 
-3. Facebook - https://openinapp.co/fbpuru
+2. `GitHub` - https://openinapp.co/githubpuru
 
 
-4. Instagram - https://openinapp.co/instapuru
+3. `Facebook` - https://openinapp.co/fbpuru
 
 
-5. Email - https://openinapp.co/gmailpuru   (use Desktop / Laptop to open this link)
+4. `Instagram` - https://openinapp.co/instapuru
+
+
+5. `Email` - https://openinapp.co/gmailpuru   `(use Desktop / Laptop to open this link)`
 
 <br> </br>
 

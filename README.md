@@ -161,4 +161,4 @@
 ## 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Typing SVG" />
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=7E3ACE&style=for-the-badge&logo" alt="Back to Top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=orange&style=for-the-badge&logo" alt="Back to Top" /></a></p>

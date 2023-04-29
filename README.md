@@ -143,12 +143,14 @@
 
 ![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg)
 
-##
+<br> </br>
+
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
+
 
 > <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b>
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Explore More on my profile below :" />
 
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
+

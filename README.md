@@ -1,9 +1,8 @@
 <!--
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17354%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17354%26project%3D%26in%3D0 "Today's Code Time")](https://codetime.dev)
 -->
 
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
-
 
 <!-- 
 <div align="center">
@@ -13,9 +12,9 @@
 
 <p align="left">
 <a href="https://github.com/creativepuru">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&pause=300&multiline=true&width=500&height=120&lines=........+Purushottam+Anand;.....+Data+Scientist+%7C+AI+Engineer+%7C+Robotics;.....+AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=500&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="Short Intro" />
 </a>
 <br/>
 </p>

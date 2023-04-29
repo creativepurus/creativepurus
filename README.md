@@ -135,7 +135,7 @@
 <br> </br>
 
 
-## GitHub Profile Views (Today)
+## 📈 GitHub Profile Views (Today)
 
 ![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg)
 

@@ -74,15 +74,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
+![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
+![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
+![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
 
 <br>
 

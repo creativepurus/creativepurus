@@ -1,3 +1,5 @@
+[![Purushottam Anand](https://github.com/creativepuru.png?size=60)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
+
 <p align="left">
 <a href="https://github.com/creativepuru">
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />

@@ -4,7 +4,7 @@
 <a href="https://github.com/creativepuru">
     <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=1000&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=500&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=500&multiline=false&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="Typing SVG" />
 </a>
 <br/>
 </p>

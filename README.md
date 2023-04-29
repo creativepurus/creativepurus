@@ -60,6 +60,11 @@
 ``` 
 ![ABOUT ME](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:) 
 ```
+
+```
+👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
+```
+
 -->
 
 <!-- Code to convert a sentence/word into a link :
@@ -67,10 +72,8 @@
 * [I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.](https://github.com/creativepuru)
 -->
 
-* 
-```
-👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
-```
+* `👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.`
+
 
 * 👉🏻 `I am a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life.`
 
@@ -78,13 +81,13 @@
 * 👉🏻 ``I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.``
 
 
-* 👉🏻 With a passion for making a difference in the world, I am driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others.
+* 👉🏻 `With a passion for making a difference in the world, I am driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others.`
 
 
-* 👉🏻 As a problem solver, I am skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues.
+* 👉🏻 `As a problem solver, I am skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues.`
 
 
-* 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
+* 👉🏻 `I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.`
 
 <br> </br>
 

@@ -152,6 +152,9 @@
 
 <br> </br>
 
+<p>
+<img align="center" src="https://github.com/creativepuru/creativepuru/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="creativepuru" >
+</p>
 
 ## 📈 GitHub Profile Views (Today)
 

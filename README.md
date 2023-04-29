@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="1000" height="1000"/>
+<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="1000" height="200"/>
 </div>
 
 [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")

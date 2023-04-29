@@ -9,6 +9,8 @@
 <br/>
 </p>
 
+
+
 <p align="center">
 
 <a href="https://openinapp.co/linkedinpuru">
@@ -91,7 +93,10 @@
 
 <br> </br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=MY+GITHUB+STATS+🔥" alt="Typing SVG" />
+
+
+![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Profile-Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 

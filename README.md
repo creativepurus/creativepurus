@@ -19,6 +19,8 @@
 <br/>
 </p>
 
+[![An image of @creativepuru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru)
+
 <p align="center">
 
 <a href="https://openinapp.co/linkedinpuru">

@@ -55,7 +55,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:" alt="Typing SVG" />
 
 
-<!-- Code to 
+<!-- Code to convert written code into copy-able sentence (use ``` multiline to achieve this):
 
 ``` 
 ![ABOUT ME](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=ABOUT+ME+:) 

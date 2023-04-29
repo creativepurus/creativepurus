@@ -144,8 +144,7 @@
 
 [![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
 
-> <h2> <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b> </h2> 
-[![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">

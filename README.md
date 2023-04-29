@@ -142,7 +142,7 @@
 
 <br> </br>
 
-[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=550&height=70&lines=🌟+CLICK+TO+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
 
 ## 🤝 [SUPPORT ME](https://www.buymeacoffee.com/creativepuru) 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 

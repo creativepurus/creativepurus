@@ -67,7 +67,10 @@
 * [I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.](https://github.com/creativepuru)
 -->
 
-* 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
+* 
+```
+👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
+```
 
 * 👉🏻 `I am a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life.`
 

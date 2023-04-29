@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="1000" height="1000"/>
+</div>
+
 [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
 
 <p align="left">
@@ -55,7 +59,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="Typing SVG" />
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="Typing SVG" />

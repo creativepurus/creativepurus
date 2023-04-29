@@ -145,11 +145,9 @@
 
 ##
 
-> <h2> <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b> </h2>
+> <b> <a href="https://www.buymeacoffee.com/creativepuru">🤝 SUPPORT ME 👉🏻 BUY ME A COFFEE ☕</a> </b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=500&height=70&lines=EXPLORE+MORE+ON+MY+PROFILE+BELOW+:+" alt="Explore More on my profile below :" />
-
-##
 
 <p align="right">
 <a href="#top">

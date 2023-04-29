@@ -117,19 +117,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me Typing SVG" />
 
-1. `Linkedin` - https://openinapp.co/linkedinpuru
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")
 
+[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-blue?style=social&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")
 
-2. `GitHub` - https://openinapp.co/githubpuru
+[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-blue?style=social&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")
 
+[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-blue?style=social&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")
 
-3. `Facebook` - https://openinapp.co/fbpuru
+[![Purushottam Anand's GitHub](https://img.shields.io/badge/-GitHub-blue?style=social&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
 
-
-4. `Instagram` - https://openinapp.co/instapuru
-
-
-5. `Email` - https://openinapp.co/gmailpuru   `(use Desktop / Laptop to open this link)`
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20this%20link-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open this link")
 
 <br> </br>
 

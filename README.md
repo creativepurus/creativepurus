@@ -1,4 +1,8 @@
-[![Purushottam Anand](https://github.com/creativepuru.png?size=60)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
+<p align="center">
+
+[![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕")
+
+</p>
 
 <p align="left">
 <a href="https://github.com/creativepuru">

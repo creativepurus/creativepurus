@@ -35,9 +35,10 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> </br>
 
-<a href="https://github.com/creativepuru?tab=repositories">
+<!-- <a href="https://github.com/creativepuru?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+-->
 
 </p>
 
@@ -78,6 +79,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
 
 <br>
 

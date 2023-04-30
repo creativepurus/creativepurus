@@ -89,9 +89,9 @@
 
 </b> <br> </br>
 
-# 🔧 SKILLS
+# 🔧 SKILLS & TECH 
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,nodejs,mongodb,mysql,py,vim,docker,md,git,bash,cloudflare,jquery,nginx,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=electron,ae,ai,androidstudio,arduino,au,atom,autocad,aws,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&perline=5&theme=dark)
 <br> </br>
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>
@@ -144,9 +144,9 @@
 
 <br> </br>
 
-[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=550&height=70&lines=🌟+CLICK+TO+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=1000&multiline=true&width=550&height=70&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻)](https://github.com/creativepuru?tab=repositories)
 
-# 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">

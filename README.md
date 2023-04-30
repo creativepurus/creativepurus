@@ -91,6 +91,8 @@
 
 # 🔧 SKILLS & TECH 
 
+![My Skills](https://skillicons.dev/icons?i=electron,ae,ai,androidstudio,arduino,au,atom,autocad,aws,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&theme=light)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=electron,ae,ai,androidstudio,arduino,au,atom,autocad,aws,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&theme=dark" />

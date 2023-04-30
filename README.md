@@ -92,6 +92,7 @@
 # 🔧 SKILLS & TECH 
 
 ![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,androidstudio,arduino,au,atom,autocad,aws,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&theme=dark)
+<br> </br>
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>
 
@@ -143,7 +144,8 @@
 
 <br> </br>
 
-[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=10&multiline=true&width=1000&height=150&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=500&pause=1000&multiline=true&width=1000&height=150&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
+<br> </br>
 
 ## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 

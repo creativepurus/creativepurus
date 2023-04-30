@@ -89,8 +89,12 @@
 
 <br> </br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" />
+# 🔧 SKILLS
 
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,nodejs,mongodb,mysql,py,vim,docker,md,git,bash,cloudflare,jquery,nginx,vscode&theme=dark)
+<br> </br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" />
 <br> </br>
 
 ![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
@@ -132,7 +136,9 @@
 
 ## 👨🏻‍💻 Currently Coding & 🎶 Listening to 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+[![Spotify GitHub Profile](https://readme-spotify.creativepuru.com/api/spotify)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+
+[![Spotify GitHub Profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
 
 <br> </br>
 

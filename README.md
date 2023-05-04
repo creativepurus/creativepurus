@@ -13,7 +13,7 @@
 </a> </p>
 
 <p align="center">
-<a href="https://https://openinapp.co/connect-on-linkedin-puru">
+<a href="https://openinapp.co/connect-on-linkedin-puru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> 
 

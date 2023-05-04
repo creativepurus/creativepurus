@@ -13,10 +13,11 @@
 </a> </p>
 
 <p align="center">
-<a href="https://openinapp.co/linkedinpuru">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=social&logo=linkedin">
+<a href="https://https://openinapp.co/connect-on-linkedin-puru">
+    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> 
 
+<!--
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
 </a> 
@@ -25,7 +26,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
 </a> <br> </br>
 
-<!-- 
 <a href="https://github.com/creativepuru">
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> </br>

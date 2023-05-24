@@ -42,7 +42,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
 
 <p align="center">
-<a href="https://openinapp.co/connect-on-linkedin-puru">
+<a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> 
 
@@ -103,8 +103,8 @@
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me" alt="How to Reach Me" /> </h1>
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
-[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Connect with Purushottam Anand on Linkedin")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter Handle](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
 

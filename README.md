@@ -36,20 +36,20 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a> <br> </br>
 
-<!-- <a href="https://github.com/creativepuru?tab=repositories">
+<a href="https://github.com/creativepuru?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 -->
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+:)" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=500&pause=1000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+:)" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=500&pause=1000&multiline=true&width=500&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=500&pause=1000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=500&pause=1000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="About Me" />
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="🌟 About Me" /> </h1>
 

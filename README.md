@@ -65,7 +65,7 @@
 
 <details>
 <summary>
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1> </summary>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
 
 <a href="https://github.com/creativepuru">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
@@ -84,19 +84,18 @@
 <!-- [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/) -->
 
 ![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
-</details>
-
 <br>
 
 ### GITHUB TROPHIES 👇🏻
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
-
+</details>
 <br> </br>
 
 <h1> 
 <details>
-<summary> 👉🏻 ABOUT ME : </summary>
+<summary>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=👉🏻+ABOUT+ME+:" alt="About Me (Click on Dropdown)" /> </h1> </summary>
 
 * 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
 

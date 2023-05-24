@@ -53,12 +53,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
 
-# 👉🏻 GITHUB TROPHIES 👇🏻
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
-
-<br> </br>
-
 <p align="center">
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
@@ -95,6 +89,12 @@
 ![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 
 <br>
+
+# 👉🏻 GITHUB TROPHIES 👇🏻
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
+
+<br> </br>
 
 <h1> 
 <details>

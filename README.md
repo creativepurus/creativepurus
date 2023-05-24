@@ -160,3 +160,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+
+<img alt="github contribution snake animation" src="https://github.com/creativepuru/creativepuru/blob/output/github-contribution-grid-snake.svg">

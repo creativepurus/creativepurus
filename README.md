@@ -52,11 +52,7 @@
 </a> 
 
 <details>
-<summary>
-
-# ![🌟 About Me](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=👉🏻+ABOUT+ME+:)
-
-</summary>
+<summary> 👉🏻 ABOUT ME : </summary>
 
 <b>
 

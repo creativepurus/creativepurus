@@ -121,12 +121,11 @@
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
 [![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
-[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
 
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
-[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-Use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=flat&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open Gmail")
+
+<!-- [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page") -->
 
 <br> </br>
 

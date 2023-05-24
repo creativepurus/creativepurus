@@ -103,11 +103,10 @@
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me" alt="How to Reach Me" /> </h1>
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
+[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
 
-[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=flat&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
 
 <!-- [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page") -->
 

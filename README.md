@@ -1,12 +1,8 @@
 <!-- 🔰 Update `Readme.md` -->
 
-<p align="left">
-
 <img src="https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge&label=Profile%20Views%20" alt="creativepuru" />
-</p>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=0e75b6&style=for-the-badge" alt="creativepuru" /> </p>
+<img src="https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=0e75b6&style=for-the-badge" alt="creativepuru" />
 
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕") <br> </br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" />
 

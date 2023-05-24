@@ -6,23 +6,12 @@
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
 [![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=E81202&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views") <br>
 
-
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
 <br> </br>
-
-<p align="center">
-<a href="https://github.com/creativepuru">
-<img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
-</a> </p>
-
-<p align="center">
-<a href="https://openinapp.co/connect-on-linkedin-puru">
-    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a> 
 
 <!--
 <a href="https://openinapp.co/cvpuru">
@@ -51,6 +40,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="About Me" />
+
+<p align="center">
+<a href="https://github.com/creativepuru">
+<img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
+</a> </p>
+
+<p align="center">
+<a href="https://openinapp.co/connect-on-linkedin-puru">
+    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
+</a> 
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="🌟 About Me" /> </h1>
 

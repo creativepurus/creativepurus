@@ -55,8 +55,6 @@
 <details>
 <summary> 👉🏻 ABOUT ME : </summary>
 
-<b>
-
 * 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
 
 
@@ -74,7 +72,7 @@
 
 * 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
-</details> </b> <br> </br>
+</details> <br> </br>
 
 # 🔧 SKILLS & TECH 
 

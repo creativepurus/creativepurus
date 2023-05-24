@@ -42,14 +42,44 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
 
 <p align="center">
+<a href="https://openinapp.co/connect-on-linkedin-puru">
+    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
+</a> 
+
+# 🔧 SKILLS
+
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,idea,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
+<br> </br>
+
+# 👨🏻‍💻 TECH & SOFTWARES
+
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
+<br> </br>
+
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>
+
+![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
+
+<a href="https://github.com/creativepuru">
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
+</a>
+
+<p align="center">
 <a href="https://github.com/creativepuru">
 <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
 </a> </p>
 
-<p align="center">
-<a href="https://openinapp.co/connect-on-linkedin-puru">
-    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a> 
+![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl) 
+![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl) 
+![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+
+<!-- [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/) -->
+
+![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
+
+<br>
 
 <h1> 
 <details>
@@ -74,38 +104,6 @@
 
 </details> <br> </br>
 
-# 🔧 SKILLS
-
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,idea,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
-<br> </br>
-
-# 👨🏻‍💻 TECH & SOFTWARES
-
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
-<br> </br>
-
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>
-
-![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
-
-<a href="https://github.com/creativepuru">
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
-</a>
-
-![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl)
-
-![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl)
-
-![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
-
-<!-- [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/) -->
-
-![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
-
-<br>
-
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me" alt="How to Reach Me" /> </h1>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](https://openinapp.co/linkedinpuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
@@ -120,7 +118,7 @@
 
 # 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧
 
-[![Spotify GitHub Profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
 
 <br> </br>
 

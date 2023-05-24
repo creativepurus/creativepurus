@@ -51,6 +51,7 @@
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> 
 
+<h1> 
 <details>
 <summary> 👉🏻 ABOUT ME : </summary>
 
@@ -73,8 +74,7 @@
 
 * 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
-</details> 
-</b> <br> </br>
+</details> </b> <br> </br>
 
 # 🔧 SKILLS & TECH 
 

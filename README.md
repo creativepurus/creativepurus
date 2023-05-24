@@ -42,7 +42,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
 
 # 👉🏻 GITHUB TROPHIES 👇🏻
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=onedark)](https://github.com/creativepuru/github-profile-trophy)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&row=2&column=3&no-frame=true)
 
 <p align="center">
 <a href="https://openinapp.co/linkedinpuru">

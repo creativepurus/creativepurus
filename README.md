@@ -150,13 +150,13 @@
 
 [![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Sponsorship Profile")
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <!-- Back to TOP -->
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 

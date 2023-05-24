@@ -6,7 +6,7 @@
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
 [![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=14CF0F&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views") <br>
 
-<!-- 🪳ROACH & 🕷️SPIDER -->
+<!-- 🪳COCKROACH & 🕷️SPIDER -->
 <p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="500">
 </p>

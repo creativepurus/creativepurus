@@ -76,12 +76,12 @@
 
 # 🔧 SKILLS
 
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&theme=dark)
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,idea,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
 <br> </br>
 
 # 👨🏻‍💻 TECH & SOFTWARES
 
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,atom,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,docker,dotnet,eclipse,git,github,githubactions,gitlab,html,idea,instagram,java,js,linkedin,linux,md,mysql,ps,powershell,pr,py,pytorch,raspberrypi,sqlite,stackoverflow,scala,tensorflow,twitter,vercel,visualstudio,vim,vscode,wordpress&theme=dark)
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
 <br> </br>
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>

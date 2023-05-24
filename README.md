@@ -8,7 +8,7 @@
 <!-- [![An image of @creativepuru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900" height="250"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
 </div>
 <br> </br>
 

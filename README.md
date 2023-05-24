@@ -10,6 +10,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="250"/>
 </div>
+<br> </br>
 
 <p align="center">
 <a href="https://github.com/creativepuru">
@@ -48,8 +49,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics" alt="About Me" />
-
-<br> </br>
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="🌟 About Me" /> </h1>
 

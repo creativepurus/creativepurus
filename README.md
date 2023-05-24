@@ -137,9 +137,10 @@
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
-<!--🪳ROACH & 🕷️SPIDER--> 
-<p align="center">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="300"><img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="500">
+
+<p align="right">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

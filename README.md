@@ -7,9 +7,11 @@
 [![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=14CF0F&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views") 
 [![COMMITS TODAY](https://badges.strrl.dev/commits/daily/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
 
->[![COMMITS THIS WEEK](https://badges.strrl.dev/commits/weekly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
-[![COMMITS THIS MONTH](https://badges.strrl.dev/commits/monthly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
-[![TOTAL COMMITS](https://badges.strrl.dev/commits/all/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
+>![COMMITS THIS WEEK](https://badges.strrl.dev/commits/weekly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
+![COMMITS THIS MONTH](https://badges.strrl.dev/commits/monthly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
+![TOTAL COMMITS](https://badges.strrl.dev/commits/all/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
+
+> ![REPO LAST UPDATED](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=REPO%20LAST%20UPDATED%20ON%20👉🏻&style=plastic)
 
 
 <!-- 🪳COCKROACH & 🕷️SPIDER -->

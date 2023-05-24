@@ -11,7 +11,7 @@
 ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
-> ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic)
+> ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=for-the-badge&labelColor=cyan&color=blue)
 
 <!-- 🪳COCKROACH & 🕷️SPIDER -->
 <p align="center">

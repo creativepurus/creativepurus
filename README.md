@@ -15,7 +15,7 @@
 
 <!-- 🕷️ SPIDER -->
 <p align="center">
-<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="500"> </p>
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="300"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 

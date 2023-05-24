@@ -63,6 +63,7 @@
 ![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
 <br> </br>
 
+<h1>
 <details>
 <summary>
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>

@@ -51,7 +51,9 @@
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> 
 
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="🌟 About Me" /> </h1>
+<details>
+<summary> 
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=2000&multiline=true&width=500&height=50&lines=🌟+ABOUT+ME+:" alt="🌟 About Me" /> </h1> </summary>
 
 <!-- Code to convert written code into copy-able sentence (use ``` multiline to achieve this):
 
@@ -88,6 +90,7 @@
 
 * 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
 
+</details> 
 </b> <br> </br>
 
 # 🔧 SKILLS & TECH 

@@ -125,13 +125,12 @@
 [![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
 <br>
 
+### Random Joke :
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl)
+
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
-
-
-### Random Joke :
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl)

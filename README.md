@@ -1,7 +1,7 @@
 <!--
-[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17354%26project%3D%26in%3D0 "Today's Code Time")](https://codetime.dev)
--->
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17354%26project%3D%26in%3D0 "Today's Code Time")](https://codetime.dev) -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=0e75b6&style=for-the-badge" alt="aquarius-blake" /> </p>
 
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕") <br> </br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" />
 

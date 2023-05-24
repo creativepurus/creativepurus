@@ -9,7 +9,6 @@
 
 >![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
 ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
-![TOTAL CONTRIBUTIONS](https://badges.strrl.dev/contributions/all/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
 
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic)

@@ -11,7 +11,7 @@
 ![COMMITS THIS MONTH](https://badges.strrl.dev/commits/monthly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
 ![TOTAL COMMITS](https://badges.strrl.dev/commits/all/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)
 
-> ![REPO LAST UPDATED](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=REPO%20LAST%20UPDATED%20ON%20👉🏻&style=plastic)
+> ![REPO LAST UPDATED](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic)
 
 
 <!-- 🪳COCKROACH & 🕷️SPIDER -->

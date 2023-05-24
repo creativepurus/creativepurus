@@ -138,7 +138,7 @@
 
 <p align="center">
 
-* ### 👉🏻 Random Joke to make you Laugh 😁 👇🏻
+* ### 👉🏻 Joke to make you Laugh 😁 👇🏻
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl "Refresh the page for a New Joke")
 

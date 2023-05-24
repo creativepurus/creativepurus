@@ -98,22 +98,17 @@
 <summary>
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=👉🏻+ABOUT+ME+:" alt="About Me (Click on Dropdown)" /> </h1> </summary>
 
-* 👨🏻‍💻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
+* 👨🏻‍💻 I'm an imaginative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. ✨🌱💡
 
+* 👉🏻 I'm a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life. 🌍📚🌟
 
-* 👉🏻 I am a curious and adventurous soul who constantly thrives on discovering new knowledge, exploring different perspectives, and pushing myself to learn and grow in all areas of life.
+* 👉🏻 I'm a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects. 🎨💡🚀
 
+* 👉🏻 With a passion for making a difference in the world, I'm driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others. 🌍❤️🌟
 
-* 👉🏻 I am a creative and innovative thinker who loves to explore new ideas and concepts and bring them to life through my work and projects.
+* 👉🏻 As a problem solver, I'm skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues. 🧩💡🔍
 
-
-* 👉🏻 With a passion for making a difference in the world, I am driven to use my skills and talents to contribute to meaningful causes and make a positive impact in the lives of others.
-
-
-* 👉🏻 As a problem solver, I am skilled at breaking down complex challenges into manageable pieces and finding creative solutions that address the root causes of issues.
-
-
-* 👉🏻 I am a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions.
+* 👉🏻 I'm a natural leader who excels at bringing people together, building teams, and guiding them toward shared goals and visions. 🙌🤝🌟
 
 </details> <br> </br>
 

@@ -43,7 +43,7 @@
 
 # 👉🏻 GITHUB TROPHIES 👇🏻
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&row=2&column=3&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
 
 <br> </br>
 

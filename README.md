@@ -13,6 +13,11 @@
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+</div>
+<br> </br>
+
 <!--
 <a href="https://openinapp.co/cvpuru">
     <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
@@ -40,11 +45,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=50&lines=I+am+looking+to+collaborate+on+the+topics+related+to+AI,+ML,+Robotics+🤖" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
-
-<div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
-</div>
-<br> </br>
 
 # 👉🏻 GITHUB TROPHIES 👇🏻
 

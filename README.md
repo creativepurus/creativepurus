@@ -4,7 +4,7 @@
 
 > [![Purushottam Anand](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ☕") <br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Purushottam+Anand;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" /> <br>
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
-[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=14CF0F&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
+[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
 ![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
 >![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)

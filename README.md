@@ -14,8 +14,8 @@
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red)
 
 <!-- 🕷️ SPIDER -->
-
-![🕷️ SPIDER](https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif)
+<p align="center">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="500"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 

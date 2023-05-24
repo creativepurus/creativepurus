@@ -45,6 +45,8 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&row=2&column=3&no-frame=true)
 
+<br> </br>
+
 <p align="center">
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">

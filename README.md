@@ -136,7 +136,7 @@
 [![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
 <br>
 
-### Random Joke to make you Laugh 😁 :
+* ### 👉🏻 Random Joke to make you Laugh 😁 👇🏻
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl "Refresh the page for a New Joke")
 

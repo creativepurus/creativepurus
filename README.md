@@ -58,16 +58,12 @@
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="Typing SVG" /> </h1>
 
-![Stats](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
-
 <a href="https://github.com/creativepuru">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
 </a>
 
-<p align="center">
-<a href="https://github.com/creativepuru">
-<img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Purushottam Anand GitHub Status" />
-</a> </p>
+![Purushottam Anand GitHub Status](https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl) 
 ![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)

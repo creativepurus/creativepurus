@@ -127,7 +127,7 @@
 
 ### Random Joke :
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl "Refresh the page for a New Joke")
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 

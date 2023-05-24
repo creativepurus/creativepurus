@@ -41,6 +41,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=100&lines=I+am+currently+learning+Machine+Learning,+Data+Science,+Artificial+Intelligence+and+Robotics+🤖" alt="About Me" />
 
+# 👉🏻 GITHUB TROPHIES 👇🏻
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
@@ -134,5 +137,3 @@
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

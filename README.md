@@ -90,7 +90,7 @@
 
 <br>
 
-# 👉🏻 GITHUB TROPHIES 👇🏻
+## 👉🏻 GITHUB TROPHIES 👇🏻
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
 

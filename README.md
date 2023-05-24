@@ -130,7 +130,3 @@
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
-
-
-
-<p> <img align="center" src="https://github.com/creativepuru/creativepuru/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="creativepuru" > </p>

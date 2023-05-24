@@ -150,16 +150,15 @@
 
 [![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Sponsorship Profile")
 
+<!-- Thanks for your Visit -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" > </a> </div>
+
 <!-- Back to TOP -->
 <p align="right">
 <a href="#top">
 <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="Thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
 
 <!-- Footer -->
 <p align="center">

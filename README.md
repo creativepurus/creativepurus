@@ -124,7 +124,7 @@
 
 [![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
 
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-Use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=flat&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open Gmail")
+[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-Use%20Desktop%20/%20Laptop%20to%20open%20Gmail-red?style=flat&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open Gmail")
 
 <!-- [![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page") -->
 

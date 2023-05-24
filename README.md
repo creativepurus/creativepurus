@@ -137,11 +137,8 @@
 <br>
 
 <p align="center">
-
-* ### 👉🏻 Joke to make you Laugh 😁 👇🏻
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=night-owl "Refresh the page for a New Joke")
-
+<h1> 👉🏻 Joke to make you Laugh 😁 👇🏻 </h1>
+<img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke" />
 </p>
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)

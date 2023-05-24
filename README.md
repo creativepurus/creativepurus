@@ -139,18 +139,16 @@
 <h1> 👉🏻 Joke to make you Laugh 😁 👇🏻 </h1>
 
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke" />
-</p>
+<img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
+
+<p align="left">
+<a href="https://openinapp.co/linkedinpuru">
+    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
+</a> </p>
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 [![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Sponsorship Profile")
-
-<p align="center">
-<a href="https://openinapp.co/linkedinpuru">
-    <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
-</a> 
-</p>
 
 <!-- Footer -->
 <p align="center">

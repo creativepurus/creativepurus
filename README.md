@@ -6,7 +6,8 @@
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
 [![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=14CF0F&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views") 
 [![COMMITS TODAY](https://badges.strrl.dev/commits/daily/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
-[![COMMITS THIS WEEK](https://badges.strrl.dev/commits/weekly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
+
+>[![COMMITS THIS WEEK](https://badges.strrl.dev/commits/weekly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
 [![COMMITS THIS MONTH](https://badges.strrl.dev/commits/monthly/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
 [![TOTAL COMMITS](https://badges.strrl.dev/commits/all/creativepuru?color=181717&style=for-the-badge&labelColor=7E3ACE)](https://badges.strrl.dev/)
 

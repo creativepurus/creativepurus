@@ -14,7 +14,9 @@
 
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red)
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5"></a></p>
+<div align="center">
+<img src="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5" width="1000" height="300"/>
+</div>
 
 <!-- 🕷️ SPIDER -->
 <p align="center">

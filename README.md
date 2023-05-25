@@ -14,9 +14,6 @@
 
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red)
 
-<p align="center">
-<img src="" width="300"> </p>
-
 <!-- 🕷️ SPIDER -->
 <p align="center">
 <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="300"> </p>

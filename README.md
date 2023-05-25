@@ -14,9 +14,10 @@
 
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red)
 
-<!-- 🕷️ SPIDER catching COCKROACH🪳 -->
+<!-- 🕷️SPIDER catching COCKROACH🪳 -->
 <p align="center">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="200"> <br> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="300"> </p>
+<h1> 🕷️SPIDER catching COCKROACH🪳 </h1>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="300"> <br> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="300"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 

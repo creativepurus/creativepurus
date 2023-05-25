@@ -154,7 +154,8 @@
 <!-- Thanks for your Visit -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> </div>
+<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> <img src="https://tenor.com/view/heart-gif-23395422.gif">
+</div>
 
 <!-- Back to TOP -->
 <p align="right">

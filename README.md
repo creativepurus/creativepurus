@@ -142,6 +142,11 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=night-owl" alt="Jokes😁 Refresh the page for a New Joke"> </p>
 
+<!-- Thanks for your Visit -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> <img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div>
+
 <p align="left">
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
@@ -150,11 +155,6 @@
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
 [![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Sponsorship Profile")
-
-<!-- Thanks for your Visit -->
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> <img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div>
 
 <!-- Back to TOP -->
 <p align="right">

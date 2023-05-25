@@ -21,7 +21,7 @@
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&multiline=true&width=450&height=40&lines=Coding+on+🕷️SPYDER+to+remove+BUGS🪳" alt="Coding on 🕷️SPYDER to remove BUGS🪳" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&multiline=true&width=450&height=40&lines=CODING+ON+🕷️SPYDER+TO+REMOVE+BUGS🪳" alt="Coding on 🕷️SPYDER to remove BUGS🪳" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
 <br> </br>
 

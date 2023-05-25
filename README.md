@@ -145,9 +145,9 @@
 <!-- Thanks for your Visit -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> <img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div>
+<img alt="Thanks for your visit ❤️" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+❤️" > </a> <img src="https://tenor.com/view/bjyx-wyb-wang-yibo-finger-heart-heart-gif-15749379.gif"> </div> <br>
 
-<p align="left">
+<p align="center">
 <a href="https://openinapp.co/linkedinpuru">
     <img src="https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin">
 </a> </p>

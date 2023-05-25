@@ -14,14 +14,14 @@
 
 > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red)
 
-<!-- 🕷️SPIDER removing BUGS🪳 -->
-<h3> 🕷️SPIDER removing BUGS🪳 </h3>
+<!-- 🕷️SPYDER removing BUGS🪳 -->
 <p align="center">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="300"> <br> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="300"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <div align="center">
+<h3> Coding on 🕷️SPYDER to remove BUGS🪳 </h3>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
 <br> </br>

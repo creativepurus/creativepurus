@@ -60,12 +60,9 @@
 
 # 👨🏻‍💻 TECH & SOFTWARES
 
-![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
+![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
 <br> </br>
 
-<h1>
-<details>
-<summary>
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
 
 <a href="https://github.com/creativepuru">
@@ -87,13 +84,11 @@
 ![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 <br>
 
-### GITHUB TROPHIES 👇🏻
+### GITHUB TROPHIES ACHIEVED 👇🏻
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
-</details>
 <br> </br>
 
-<h1> 
 <details>
 <summary>
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=👉🏻+ABOUT+ME" alt="About Me (Click on Dropdown)" /> </h1> </summary>

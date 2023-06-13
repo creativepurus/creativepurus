@@ -16,12 +16,12 @@
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 <p align="center">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="50"> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50"> </p>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100"> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=7E3ACECE&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=CODING+ON+🕷️SPYDER+TO+REMOVE+BUGS🪳" alt="Coding on 🕷️SPYDER to remove BUGS🪳" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=7E3ACECE&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=🕷️SPYDER+REMOVING+BUGS🪳" alt="🕷️SPYDER removing BUGS🪳" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 </div>
 <br> </br>
 

@@ -16,7 +16,7 @@
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 <p align="center">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="50"> <br> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50"> </p>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="50"> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="50"> </p>
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 

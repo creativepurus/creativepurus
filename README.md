@@ -36,8 +36,6 @@
 
 </div>
 
-
-
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
 <!--

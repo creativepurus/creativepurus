@@ -62,7 +62,7 @@
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl) 
 ![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
 
-<!-- [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/) -->
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)
 
 ![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 <br>

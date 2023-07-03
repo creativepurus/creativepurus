@@ -28,7 +28,9 @@
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 
-</div> <br> </br>
+</div> 
+
+<br> </br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 

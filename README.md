@@ -96,8 +96,6 @@
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail%20👉🏻-Use%20Desktop%20/%20Laptop%20to%20open%20this%20link-red?style=for-the-badge&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - Use Desktop / Laptop to open this link")
 
-[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Page")
-
 <br> </br>
 
 # 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧

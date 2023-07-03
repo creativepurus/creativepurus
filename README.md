@@ -30,26 +30,6 @@
 
 </div> <br> </br>
 
-<!--
-<a href="https://openinapp.co/cvpuru">
-    <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
-</a> 
-
-<a href="mailto:creativepurus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
-</a> <br> </br>
-
-<a href="https://github.com/creativepuru">
-    <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a> <br> </br>
-
-<a href="https://github.com/creativepuru?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
--->
-
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />

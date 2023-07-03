@@ -9,8 +9,8 @@
 ![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
 >![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-[CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-[CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
@@ -40,33 +40,31 @@
 
 # 🔧 SKILLS
 
-[🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
+![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
 <br> </br>
 
 # 👨🏻‍💻 TECH & SOFTWARES
 
-[👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
+![👨🏻‍💻 TECH & SOFTWARES ](https://skillicons.dev/icons?i=androidstudio,arduino,bash,cloudflare,codepen,discord,dotnet,bots,eclipse,git,github,githubactions,gitlab,idea,instagram,linkedin,powershell,stackoverflow,twitter,visualstudio,vim,vscode,vercel,wordpress&theme=dark)
 <br> </br>
 
 <h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=1000&multiline=true&width=500&height=30&lines=🔥+MY+GITHUB+STATS" alt="My GitHub Stats (Click on Dropdown)" /> </h1> </summary>
 
 <a href="https://github.com/creativepuru">
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
-</a> 
+</a> <br> </br>
 
-<br> </br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
 
-[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
+![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl) 
+![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
 
-[Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl) 
-[Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl) 
+![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
 
-[Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl) 
-[Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+<!-- [![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/) -->
 
-[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=creativepuru&theme=nightowl)](https://github.com/creativepuru/)
-
-[GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
+![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
 <br>
 
 ### GITHUB TROPHIES ACHIEVED 👇🏻

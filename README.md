@@ -16,10 +16,10 @@
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100"> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100"> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
+
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 

@@ -34,31 +34,7 @@
 
 <img align="left" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" />
 
-</div>
-
-<!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
-
-<!--
-<a href="https://openinapp.co/cvpuru">
-    <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
-</a> 
-
-<a href="mailto:creativepurus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
-</a> <br> </br>
-
-<a href="https://github.com/creativepuru">
-    <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a> <br> </br>
-
-<a href="https://github.com/creativepuru?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
--->
-
-</p>
-
-
+</div> <br> </br>
 
 # 🔧 SKILLS
 

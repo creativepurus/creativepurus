@@ -36,6 +36,7 @@
 
 </div> <br> </br>
 
+
 # 🔧 SKILLS
 
 ![🔧 SKILLS & TECH ](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)

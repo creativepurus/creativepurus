@@ -12,11 +12,43 @@
 ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
 
-<!--  > ![PROFILE LAST UPDATED ON](https://badges.strrl.dev/updated/creativepuru/creativepuru?label=PROFILE%20LAST%20UPDATED%20ON%20👉🏻&style=plastic&labelColor=blue&color=red) -->
-
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
-<div align = "left"> 
+<p align="center">
+
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100"> 
+
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100"> 
+
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
+
+</div> <br> </br>
+
+<!--
+<a href="https://openinapp.co/cvpuru">
+    <img src="https://img.shields.io/badge/Resume-blue?style=social&logo=adobe">
+</a> 
+
+<a href="mailto:creativepurus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=social&logo=gmail&logoColor=red">
+</a> <br> </br>
+
+<a href="https://github.com/creativepuru">
+    <img src="https://github-stats-alpha.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a> <br> </br>
+
+<a href="https://github.com/creativepuru?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=creativepuru&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+-->
+
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 
@@ -25,17 +57,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=100&lines=I+am+happy+to+collaborate+🤖" alt="About Me" />
-
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" alt="Spyder">
-
-<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" alt="Bug">
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" alt="Coding">
-
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" />
-
-</div> <br> </br>
-
 
 # 🔧 SKILLS
 

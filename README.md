@@ -93,7 +93,7 @@
 </details> <br> </br>
 
 <!-- How to Reach Me -->
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+👇🏻" alt="How to Reach Me" /> </h1>
+<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+Connect+with++me+👇🏻" alt="How to Reach Me" /> </h1>
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://openinapp.co/connect-on-linkedin-puru "Connect with Purushottam Anand on Linkedin")    <!-- LinkedIn -->
 [![Purushottam Anand's Twitter Handle](https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->

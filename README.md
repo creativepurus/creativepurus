@@ -16,15 +16,15 @@
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
-<div align = "left">
-
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
+<div align = "left"> 
 
 <img align="right" src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" height="200" alt="Spyder" /> 
 
 <img align="right" src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" height="200" alt="Bug" /> 
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" alt="Coding" />
+
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" />
 
 </div>
 

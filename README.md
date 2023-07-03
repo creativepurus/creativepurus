@@ -17,8 +17,21 @@
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
 <div align = "left">
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" height="200" alt="Spyder" /> <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" height="200" alt="Bug" /> <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" height="200" alt="Spyder" /> 
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" height="200" alt="Bug" /> 
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=100&lines=I+am+happy+to+collaborate+🤖" alt="About Me" />
 
 <!-- [![An image of @creativepuru's Holopin badges](https://holopin.me/creativepuru)](https://holopin.io/@creativepuru) -->
 
@@ -42,13 +55,7 @@
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Purushottam+Anand+👨🏻‍💻" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1000&height=100&lines=I+am+happy+to+collaborate+🤖" alt="About Me" />
 
 # 🔧 SKILLS
 

@@ -5,12 +5,12 @@
 <!-- Badges -->
 > [![Anand Purushottam](https://github.com/creativepurus.png?size=100)](https://github.com/creativepurus "Anand Purushottam 🇮🇳 on GitHub ☕") <br> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=500&pause=300&multiline=true&width=500&height=120&lines=Anand+Purushottam;Data+Scientist+%7C+AI+Engineer+%7C+Robotics;AI+%7C+Machine+Learning+%7C+Computer+Vision" alt="Short Intro" /> <br>
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
-[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepuru&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
-![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+[![Profile Views (Today)](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views%20(Today)&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepuru "Profile Views")
+![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
 
->![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
-![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepuru?color=blue&style=for-the-badge&labelColor=cyan)
+>![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
+![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
 
 <!-- 🕷️SPYDER removing BUGS🪳 -->
 
@@ -54,20 +54,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=3000&pause=1000&multiline=true&width=1000&height=150&lines=April+11,+2023+marks+the+beginning+of+my+coding+journey+on+GitHub+☕;We+can+create+a+remarkable+history+together+🤝;Join+me+on+this+Journey+by+following+me+on+GitHub+✨" alt="History on Github" />
 </a> <br> </br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creativepuru&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=creativepurus&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)
 
-![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepuru&theme=nightowl) 
-![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepuru&theme=nightowl)
+![Repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=creativepurus&theme=nightowl) 
+![Most-Commit-Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=creativepurus&theme=nightowl)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepuru&theme=nightowl) 
-![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepuru&theme=nightowl&utcOffset=5.30)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=creativepurus&theme=nightowl) 
+![Productive-Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=creativepurus&theme=nightowl&utcOffset=5.30)
 
-![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepuru&theme=nightowl)
+![GitHub Month Wise Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=creativepurus&theme=nightowl)
 <br>
 
 ### GITHUB TROPHIES ACHIEVED 👇🏻
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepuru&theme=darkhub&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=creativepurus&theme=darkhub&no-frame=true)
 <br> </br>
 
 <details>
@@ -106,9 +106,9 @@
 
 # 📈 GitHub Profile Views (since 29 April 2023)
 
-![Visitor-Count](https://profile-counter.glitch.me/{creativepuru}/count.svg) <br>
+![Visitor-Count](https://profile-counter.glitch.me/{creativepurus}/count.svg) <br>
 
-[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru?tab=repositories)
+[![EXPLORE MORE IN MY REPOSITORIES](https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=🌟+EXPLORE+MORE+IN+MY+REPOSITORIES+👨🏻‍💻;;✨+I+am+constantly+adding+new+contents+📚;;💭+Follow+me+and+make+sure+to+check+back+often+🕙)](https://github.com/creativepurus?tab=repositories)
 <br>
 
 <h1> 👉🏻 Joke to make you Laugh 😁 👇🏻 </h1>
@@ -128,7 +128,7 @@
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
 
-[![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepuru/ "Purushottam Anand's GitHub Sponsorship Profile")
+[![Purushottam Anand's GitHub Sponsorship Profile](https://img.shields.io/badge/-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://github.com/sponsors/creativepurus/ "Anand Purushottam's GitHub Sponsorship Profile")
 
 <!-- Back to TOP -->
 <p align="right">

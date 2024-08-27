@@ -100,7 +100,7 @@
 
 # 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧
 
-[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=rglKVmU0qC80u7TpfQqZOnym&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
 
 <br> </br>
 

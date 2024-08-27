@@ -104,7 +104,7 @@
 
 <br> </br>
 
-# 📈 GitHub Profile Views (since 29 April 2023)
+# 📈 GitHub Profile Views (Today)
 
 ![Visitor-Count](https://profile-counter.glitch.me/{creativepurus}/count.svg) <br>
 

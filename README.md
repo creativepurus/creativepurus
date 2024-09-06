@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&color=&center=true&vCenter=true&pause=1000&multiline=true&width=450&height=40&lines=👨🏻‍💻MY+SPYDER+REMOVING+BUGS🪳" alt="👨🏻‍💻SPYDER removing BUGS🪳" /> 
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
 
@@ -34,9 +34,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Anand+Purushottam+👨🏻‍💻" alt="About Me" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=600&height=50&lines=I+am+interested+in+AI,+ML,+Data+Science,+Robotics+🤖" alt="About Me" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=30&duration=1000&pause=2000&multiline=true&width=1200&height=50&lines=I+am+currently+learning+Machine+Learning+and+Artificial+Intelligence+🤖" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=800&height=50&lines=I+contribute+in+topics+related+to+AI,+ML,+Data+Science,+and+Robotics+🤖" alt="About Me" />
 
 # 🔧 SKILLS
 

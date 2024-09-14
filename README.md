@@ -95,7 +95,7 @@
 
 # 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧
 
-[![Listen on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xlitivfce4cu3wd4dglpn6xem4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO?si=3fd825d50bc44214)
+[![Listen on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xlitivfce4cu3wd4dglpn6xem4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
 
 <br> </br>
 

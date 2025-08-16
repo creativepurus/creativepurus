@@ -13,7 +13,7 @@
 
 ![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)    ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)    ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
 
-<b> 🕷️ Fixing BUGS 🪳 </b>
+<!-- FIXING BUGS -->
 <p align="center">
   <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" alt="Bug fixing spider gif"> 
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" alt="Spider insect gif"> 

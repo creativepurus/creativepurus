@@ -16,12 +16,13 @@
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=22&style=flat-square&labelColor=gray)
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](https://github.com/creativepurus/creativepurus/issues)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/current_affairs_quiz_ExamSetGo)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/creativepurus/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepurus)
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor_me_on_GitHub-181717?style=flat-square&logo=github&logoColor=white&color=red)](https://github.com/sponsors/creativepurus/ "Anand Purushottam's GitHub Sponsorship Profile")
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/current_affairs_quiz_ExamSetGo)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/creativepurus/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepurus)
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=red)](https://github.com/sponsors/creativepurus/ "Anand Purushottam's GitHub Sponsorship Profile")
 
 <!-- FIXING BUGS -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="100" alt="Bug fixing spider gif"> 
   <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100" alt="Spider insect gif"> 

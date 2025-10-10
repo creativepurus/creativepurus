@@ -14,6 +14,7 @@
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=22&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D17354%26minutes%3D1440)](https://codetime.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views&style=flat-square)](https://komarev.com/ghpvc/?username=creativepurus "Profile Views")
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=22&style=flat-square&labelColor=gray)
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)](https://github.com/creativepurus/creativepurus/issues)
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/current_affairs_quiz_ExamSetGo)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/creativepurus/)

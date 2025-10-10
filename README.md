@@ -12,15 +12,13 @@
 
 [![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=flat-square)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=22&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D17354%26minutes%3D1440)](https://codetime.dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views&color=22&style=flat-square)](https://komarev.com/ghpvc/?username=creativepurus "Profile Views")
-![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepurus?color=22&style=flat-square&labelColor=gray)
+[![Profile Views](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views&style=flat-square)](https://komarev.com/ghpvc/?username=creativepurus "Profile Views")
 ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=22&style=flat-square&labelColor=gray)
-
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/current_affairs_quiz_ExamSetGo)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/creativepurus/)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepurus)
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor_me_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sponsors/creativepurus/ "Anand Purushottam's GitHub Sponsorship Profile")
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor_me_on_GitHub-181717?style=flat-square&logo=github&logoColor=white&color=red)](https://github.com/sponsors/creativepurus/ "Anand Purushottam's GitHub Sponsorship Profile")
 
 <!-- FIXING BUGS -->
 <p align="center">

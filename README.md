@@ -38,7 +38,7 @@
 
 <br>
 
-# 🚀 **LATEST REPOS**
+# 🔹 **LATEST REPOS**
 
 <div align="center">
 <table>
@@ -46,45 +46,42 @@
     <th>🗂️ Repo</th>
     <th>📝 Description</th>
     <th>⏰ Created</th>
-    <th>🔄 Modified</th>
+    <th>🔄 Modified / Access</th>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Face_Recognition_Attendance_System"><img src="https://img.shields.io/badge/-Face_Recognition_Attendance_System-121212?style=for-the-badge&logo=python&logoColor=white"></a></td>
     <td><b><i>Python attendance system using Face Recognition to auto-mark via webcam</i></b></td>
     <td><img src="https://img.shields.io/badge/2025--08--18-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2025--08--19-yello?style=flat"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/2025--08--19-yellow?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Accent_Classification"><img src="https://img.shields.io/badge/-Accent_Classification-121212?style=for-the-badge&logo=pytorch&logoColor=white"></a></td>
     <td><b><i>Wav2Vec2 + PyTorch for English accent classification (Canadian vs British)</i></b></td>
     <td><img src="https://img.shields.io/badge/2025--07--29-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2025--08--07-yello?style=flat"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/2025--08--07-yellow?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Convert-ipynb-to-PDF"><img src="https://img.shields.io/badge/-Convert--ipynb--to--PDF-121212?style=for-the-badge&logo=jupyter&logoColor=white"></a></td>
     <td><b><i>Seamless tool to convert Jupyter Notebooks (ipynb) to PDF</i></b></td>
     <td><img src="https://img.shields.io/badge/2023--06--09-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2023--06--22-yello?style=flat"></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/2023--06--22-yellow?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/Quiz-Bot"><img src="https://img.shields.io/badge/-Telegram Quiz Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
+    <td><a href="https://github.com/creativepurus/Quiz-Bot"><img src="https://img.shields.io/badge/-Telegram_Quiz_Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
     <td><b><i>Telegram Quiz Bot for posting and managing exam questions</i></b></td>
-        <td>
+    <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
         <img src="https://img.shields.io/badge/Private_Repo-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
-        <img src="https://img.shields.io/badge/Click_to_Get_Access-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/Click_to_Get_Access-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/GK-India-Quiz-Bot"><img src="https://img.shields.io/badge/-GK Quiz Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
+    <td><a href="https://github.com/creativepurus/GK-India-Quiz-Bot"><img src="https://img.shields.io/badge/-GK_Quiz_Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
     <td><b><i>Bilingual Indian GK Quiz bot for Telegram</i></b></td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
@@ -93,13 +90,12 @@
     </td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
-        <img src="https://img.shields.io/badge/Click_to_Get_Access-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        <img src="https://img.shields.io/badge/Click_to_Get_Access-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </td>
   </tr>
 </table>
 </div>
-
 
 
 <!-- About Me Typing -->

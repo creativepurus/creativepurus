@@ -9,9 +9,10 @@
   alt="Typing intro animation for Anand Purushottam" />  
 
 <!-- Badges -->
-[![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=for-the-badge)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours")     [![Profile Views](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views&color=red&style=for-the-badge)](https://komarev.com/ghpvc/?username=creativepurus "Profile Views")    ![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepurus?color=blue&style=for-the-badge&labelColor=cyan) 
 
-![CONTRIBUTIONS THIS WEEK](https://badges.strrl.dev/contributions/weekly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)    ![CONTRIBUTIONS THIS MONTH](https://badges.strrl.dev/contributions/monthly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)    ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=blue&style=for-the-badge&labelColor=cyan)
+[![Coding Hours](https://wakatime.com/badge/user/c8a16b6e-2321-45b5-a82d-13dfd4f5b336.svg?style=flat)](https://wakatime.com/@c8a16b6e-2321-45b5-a82d-13dfd4f5b336 "Coding Hours") [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=22&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D17354%26minutes%3D1440)](https://codetime.dev) [![Profile Views](https://komarev.com/ghpvc/?username=creativepurus&label=Profile%20Views&colorblue&style=flat)](https://komarev.com/ghpvc/?username=creativepurus "Profile Views") ![CONTRIBUTIONS TODAY](https://badges.strrl.dev/contributions/daily/creativepurus?color=22&style=flat&labelColor=gray) ![CONTRIBUTIONS THIS YEAR](https://badges.strrl.dev/contributions/yearly/creativepurus?color=22&style=flat&labelColor=gray)
+
+
 
 <!-- FIXING BUGS -->
 <p align="center">

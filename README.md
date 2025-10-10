@@ -51,24 +51,24 @@
   <tr>
     <td><a href="https://github.com/creativepurus/Face_Recognition_Attendance_System"><b>🚀 Face Recognition Attendance</b></a></td>
     <td><b><i>Auto-mark attendance via Face Recognition</i></b></td>
-    <td><img src="https://img.shields.io/badge/2025--08--18-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2025--08--19-yellow?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/18--Aug--2025-black?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/19--Aug--2025-yello?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Accent_Classification"><b>🗣️ Accent Classification</b></a></td>
     <td><b><i>Classify English accents with AI model</i></b></td>
-    <td><img src="https://img.shields.io/badge/2025--07--29-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2025--08--07-yellow?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/29--July--2025-black?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/07--Aug--2025-yello?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Convert-ipynb-to-PDF"><b>📄 ipynb to PDF Converter</b></a></td>
     <td><b><i>Convert Jupyter Notebooks to PDF</i></b></td>
-    <td><img src="https://img.shields.io/badge/2023--06--09-black?style=flat"></td>
-    <td><img src="https://img.shields.io/badge/2023--06--22-yellow?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/09--June--2023-black?style=flat"></td>
+    <td><img src="https://img.shields.io/badge/22--June--2023-yello?style=flat"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/Quiz-Bot"><b>🤖 Telegram Quiz Bot</b></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
-    <td><b><i>Exam question quiz bot for Telegram</i></b></td>
+    <td><b><i>Auto Post Quiz Bot for Telegram</i></b></td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
         <img src="https://img.shields.io/badge/Private_Repo-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/creativepurus/GK-India-Quiz-Bot"><b>🇮🇳 GK Quiz Bot</b></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
-    <td><b><i>Bilingual GK quiz bot for Telegram</i></b></td>
+    <td><b><i>Bilingual GK Quiz Bot for Telegram</i></b></td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
         <img src="https://img.shields.io/badge/Private_Repo-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -97,7 +97,9 @@
 </table>
 </div>
 
-
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=800&height=50&lines=Connect+%26+Drop+a+Text+on+LinkedIn+to+Get+Access+of+Private+Repos" 
+  alt="Connect & Drop a Text on LinkedIn to Get Access of Private Repos" />
 
 <!-- About Me Typing -->
 <img 

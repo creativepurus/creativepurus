@@ -49,26 +49,26 @@
     <th>🔄 Modified / Access</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/Face_Recognition_Attendance_System"><img src="https://img.shields.io/badge/-Face_Recognition_Attendance_System-121212?style=for-the-badge&logo=python&logoColor=white"></a></td>
-    <td><b><i>Python attendance system using Face Recognition to auto-mark via webcam</i></b></td>
+    <td><a href="https://github.com/creativepurus/Face_Recognition_Attendance_System"><b>🚀 Face Recognition Attendance</b></a></td>
+    <td><b><i>Auto-mark attendance via Face Recognition</i></b></td>
     <td><img src="https://img.shields.io/badge/2025--08--18-black?style=flat"></td>
     <td><img src="https://img.shields.io/badge/2025--08--19-yellow?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/Accent_Classification"><img src="https://img.shields.io/badge/-Accent_Classification-121212?style=for-the-badge&logo=pytorch&logoColor=white"></a></td>
-    <td><b><i>Wav2Vec2 + PyTorch for English accent classification (Canadian vs British)</i></b></td>
+    <td><a href="https://github.com/creativepurus/Accent_Classification"><b>🗣️ Accent Classification</b></a></td>
+    <td><b><i>Classify English accents with AI model</i></b></td>
     <td><img src="https://img.shields.io/badge/2025--07--29-black?style=flat"></td>
     <td><img src="https://img.shields.io/badge/2025--08--07-yellow?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/Convert-ipynb-to-PDF"><img src="https://img.shields.io/badge/-Convert--ipynb--to--PDF-121212?style=for-the-badge&logo=jupyter&logoColor=white"></a></td>
-    <td><b><i>Seamless tool to convert Jupyter Notebooks (ipynb) to PDF</i></b></td>
+    <td><a href="https://github.com/creativepurus/Convert-ipynb-to-PDF"><b>📄 ipynb to PDF Converter</b></a></td>
+    <td><b><i>Convert Jupyter Notebooks to PDF</i></b></td>
     <td><img src="https://img.shields.io/badge/2023--06--09-black?style=flat"></td>
     <td><img src="https://img.shields.io/badge/2023--06--22-yellow?style=flat"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/Quiz-Bot"><img src="https://img.shields.io/badge/-Telegram_Quiz_Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
-    <td><b><i>Telegram Quiz Bot for posting and managing exam questions</i></b></td>
+    <td><a href="https://github.com/creativepurus/Quiz-Bot"><b>🤖 Telegram Quiz Bot</b></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
+    <td><b><i>Exam question quiz bot for Telegram</i></b></td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
         <img src="https://img.shields.io/badge/Private_Repo-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -81,8 +81,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/creativepurus/GK-India-Quiz-Bot"><img src="https://img.shields.io/badge/-GK_Quiz_Bot-121212?style=for-the-badge&logo=telegram&logoColor=white"></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
-    <td><b><i>Bilingual Indian GK Quiz bot for Telegram</i></b></td>
+    <td><a href="https://github.com/creativepurus/GK-India-Quiz-Bot"><b>🇮🇳 GK Quiz Bot</b></a> <span style="font-size:80%;color:orange;">(Private)</span></td>
+    <td><b><i>Bilingual GK quiz bot for Telegram</i></b></td>
     <td>
       <a href="https://www.linkedin.com/in/creativepurus/">
         <img src="https://img.shields.io/badge/Private_Repo-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -96,6 +96,7 @@
   </tr>
 </table>
 </div>
+
 
 
 <!-- About Me Typing -->

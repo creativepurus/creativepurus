@@ -106,24 +106,21 @@
 </div>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=5000&pause=2000&multiline=true&width=800&height=50&lines=Connect+%26+Drop+a+Text+on+LinkedIn+to+Get+Access+of+Private+Repos" 
+  src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=3000&pause=1000&multiline=true&width=800&height=50&lines=Connect+%26+Drop+a+Text+on+LinkedIn+to+Get+Access+of+Private+Repos" 
   alt="Connect & Drop a Text on LinkedIn to Get Access of Private Repos" />
 
 <div align="center">
   
   [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/creativepurus/)
+
+  <h3>🏆 My REPOSITORIES 👇🏻</h3>
   
 </div>
 
 <div align="center">
-  <h3>🏆 My REPOSITORIES 👇🏻</h3>
   <a href="https://github.com/creativepurus?tab=repositories">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=8000&pause=500&multiline=false&width=1000&height=100&lines=%F0%9F%8C%9F+EXPLORE+MORE+IN+MY+REPOSITORIES+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%E2%9C%A8+I+am+constantly+adding+new+contents+%F0%9F%93%9A;%F0%9F%92%AD+Follow+me+and+make+sure+to+check+back+often+%F0%9F%95%99" 
-      alt="Explore more in my repositories" />
-    <img 
-  src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=false&width=500&height=50&lines=Hi,+I+am+Anand+Purushottam+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+contribute+in+topics+related+to...;AI,+ML,+Data+Science,+and+Robotics+%F0%9F%A4%96" 
-  alt="Hi, I am Anand Purushottam 👨🏻‍💻 I contribute in topics related to AI, ML, Data Science, and Robotics 🤖" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=false&width=500&height=50&lines=Hi,+I+am+Anand+Purushottam+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+contribute+in+topics+related+to...;AI,+ML,+Data+Science,+and+Robotics+%F0%9F%A4%96" alt="Hi, I am Anand Purushottam 👨🏻‍💻 I contribute in topics related to AI, ML, Data Science, and Robotics 🤖" />
+    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=2000&pause=200&multiline=true&width=1000&height=100&lines=%F0%9F%8C%9F+EXPLORE+MORE+IN+MY+REPOSITORIES+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%E2%9C%A8+I+am+constantly+adding+new+contents+%F0%9F%93%9A;%F0%9F%92%AD+Follow+me+and+make+sure+to+check+back+often+%F0%9F%95%99" alt="Explore more in my Repositories" />
   </a>
 </div>
 

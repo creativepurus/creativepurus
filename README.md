@@ -106,25 +106,30 @@
 </div>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=800&height=50&lines=Connect+%26+Drop+a+Text+on+LinkedIn+to+Get+Access+of+Private+Repos" 
+  src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&duration=5000&pause=2000&multiline=true&width=800&height=50&lines=Connect+%26+Drop+a+Text+on+LinkedIn+to+Get+Access+of+Private+Repos" 
   alt="Connect & Drop a Text on LinkedIn to Get Access of Private Repos" />
 
 <div align="center">
+  
+  [![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/creativepurus/)
+  
+</div>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/-Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/creativepurus/)
-
+<div align="center">
+  <h3>🏆 My REPOSITORIES 👇🏻</h3>
+  <a href="https://github.com/creativepurus?tab=repositories">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=8000&pause=500&multiline=false&width=1000&height=100&lines=%F0%9F%8C%9F+EXPLORE+MORE+IN+MY+REPOSITORIES+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%E2%9C%A8+I+am+constantly+adding+new+contents+%F0%9F%93%9A;%F0%9F%92%AD+Follow+me+and+make+sure+to+check+back+often+%F0%9F%95%99" 
+      alt="Explore more in my repositories" />
+    <img 
+  src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=false&width=500&height=50&lines=Hi,+I+am+Anand+Purushottam+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+contribute+in+topics+related+to...;AI,+ML,+Data+Science,+and+Robotics+%F0%9F%A4%96" 
+  alt="Hi, I am Anand Purushottam 👨🏻‍💻 I contribute in topics related to AI, ML, Data Science, and Robotics 🤖" />
+  </a>
 </div>
 
 <!-- About Me Typing -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=1000&pause=2000&multiline=true&width=500&height=50&lines=Hi,+I+am+Anand+Purushottam+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" 
-  alt="Hi, I am Anand Purushottam 👨🏻‍💻" />
-  
-<!-- Typing banner: contributions -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=2000&multiline=true&width=800&height=50&lines=I+contribute+in+topics+related+to+AI,+ML,+Data+Science,+and+Robotics+%F0%9F%A4%96" 
-  alt="I contribute in topics related to AI, ML, Data Science, and Robotics 🤖" />
 
+  
 # 🔧 SKILLS
 
 ![🔧 SKILLS & TECH](https://skillicons.dev/icons?i=electron,ae,ai,au,atom,autocad,aws,blender,bootstrap,c,cs,cpp,css,docker,html,java,js,linux,md,mysql,ps,pr,py,pytorch,raspberrypi,sqlite,scala,tensorflow&theme=dark)
@@ -189,15 +194,6 @@
 [![Listen on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xlitivfce4cu3wd4dglpn6xem4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&cache_seconds=1800)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
 
 <br>
-
-<div align="center">
-  <h3>🏆 My REPOSITORIES 👇🏻</h3>
-  <a href="https://github.com/creativepurus?tab=repositories">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Calibri&size=25&duration=1000&pause=500&multiline=false&width=1000&height=100&lines=%F0%9F%8C%9F+EXPLORE+MORE+IN+MY+REPOSITORIES+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%E2%9C%A8+I+am+constantly+adding+new+contents+%F0%9F%93%9A;%F0%9F%92%AD+Follow+me+and+make+sure+to+check+back+often+%F0%9F%95%99" 
-      alt="Explore more in my repositories" />
-  </a>
-</div>
 
 <h3 align="center"> Joke to make you Laugh 😁 👇🏻 </h3>
 

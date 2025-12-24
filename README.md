@@ -186,9 +186,9 @@
 
 <br>
 
-# 🎶 Currently Coding 👨🏻‍💻 & Listening to 🎧
+# 🎶 Currently Building 👨🏻‍💻 & Listening to 🎧
 
-[![Listen on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xlitivfce4cu3wd4dglpn6xem4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&cache_seconds=1800)](https://open.spotify.com/user/31xlitivfce4cu3wd4dglpn6xem4)
+[![Listen on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xlitivfce4cu3wd4dglpn6xem4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&cache_seconds=1800)](https://open.spotify.com/user/31joifsxfifryfyv2peoa5x2ffi4)
 
 <br>
 
